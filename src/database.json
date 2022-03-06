@@ -1,0 +1,24 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "others": {
+    "absen": []
+  },
+  "allow": {
+    "antilink": false,
+    "antiwame": false,
+    "antivirtex": false
+  }
+}
