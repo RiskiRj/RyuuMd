@@ -12,7 +12,7 @@ const chalk = require('chalk')
 const setting = JSON.parse(fs.readFileSync('./setting.json'))
     
     //===> GAUSAH DIUBAH
-    global.owner = [`${setting.nomerowner}`,`${setting.nomerowner2}`,`${setting.nomerowner3}`] //Kalo Mau Lebih Tambahin Aja Dari Setting.json nya
+    global.owner = [`${setting.nomerowner}`,`${setting.nomerowner2}`,`${setting.nomerowner3}`,`${setting.nomorowner4}`] //Kalo Mau Lebih Tambahin Aja Dari Setting.json nya
     global.packname = `${setting.namaowner}`
     global.author = `© ${setting.namaowner}`
     global.sessionName = `${setting.sessionname}`
